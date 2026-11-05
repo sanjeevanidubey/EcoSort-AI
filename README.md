@@ -268,6 +268,7 @@ The technical handoff is part of this repository—not a separate private docume
 <div align="center">
 
 **EcoSort AI — Edge intelligence for more informed waste sorting.**
+  Build and Engineered by- **Sanjeevani, Harsh and Varnika**
 
 Built for the **Namma AI Hackathon**.
 
